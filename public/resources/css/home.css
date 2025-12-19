@@ -36,8 +36,10 @@
 .content-for-home .img-container {
     width: 400px;
     height: 400px;
-    background: url("../img/home_logo_bg_hero.png") no-repeat top left;
+    background: url("../img/ratanak.png") no-repeat top left;
     background-size: cover;
+    border-radius: 100%;
+    /* box-shadow: 0 15px 35px rgba(246, 246, 246, 0.575); */
 }
 
 .content-for-home .img-container img {
@@ -214,7 +216,7 @@
     .content-for-home .img-container {
         width: 200px;
         height: 200px;
-        background: url(../img/home_logo_bg_hero.png) no-repeat top left;
+        background: url(../img/ratanak.png) no-repeat top left;
         background-size: cover;
     }
 }
